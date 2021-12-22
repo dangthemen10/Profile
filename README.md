@@ -182,6 +182,11 @@ I am an undergraduate Data communication and Computer network student at Can Tho
 ---
 
   <h2 align="right"> <i>Github Statistics 📈 </i></h2>
+  <div align="center">
+	  <a href="">
+	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangthemen10&theme=tokyonight" />
+	  </a>
+  </div>
   
   <div align="center"> 
      <a href="">
