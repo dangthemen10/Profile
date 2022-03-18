@@ -3,17 +3,57 @@
 [![GitHub followers](https://img.shields.io/github/followers/dangthemen10.svg?style=social&label=Followers)](https://github.com/dangthemen10?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=dangthemen10&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=20CC1B&size=20&lines=Hello,+My+full+name+is+Phan+Hai+Dang...;I+was+born+in+1997!;I'm+a+Web+Developer...;And,+I+come+from+Kien+Giang+province)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=20CC1B&size=20&lines=Hello,+My+full+name+is+Phan+Hai+Dang...;I+was+born+on+July+30+,+1997!;I'm+a+Web+Developer...;I+come+from+Kien+Giang+province)](https://git.io/typing-svg)
 
 <img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I am an undergraduate Data communication and Computer network student at Can Tho University. C, C++, Java, Javascript, and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Vuejs, Nuxtjs, etc.
+I'm a student majoring in Data Communication and Computer Networking at Can Tho University. C, C++, Java, Javascript, and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+- 👨‍ Junior Web Developer with around 1 plus years of experience in Web development.
+- 👨‍💻 Experience in developing web applications using HTML, CSS, JavaScript, VueJS, NuxtJS, Nodejs, MySQL, ORM Sequelize and Jest. In addition, have knowledge and experience in Core Java, Spring Boot, JUnit5.
+- 🌱 Experienced in working with Agile/Scrum and Waterfall models.
+- 🌱 Experience in OOPs concept and test strategies like mocking testing.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 🌱 I’m currently learning Javascript, HTML5 and CSS3.
+- 🌱 I’m currently learning ReactJs, TypeScript, HTML5 and CSS3.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Chess♟, LOL and 🎵 listen to music.
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Career Goals***
+Applying the knowledge learned to become a professional programmer. I hope to work in a 
+professional programming environment, where I can develop professional skills, learn new programming knowledge to improve myself.
+
+## <div align="right"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Education***</div>
+<table>
+	<tr>
+		<td>09/2016 – 04/2021:</td>
+		<td>Can Tho University </br>
+		Faculty: Infomation and Communications Technology.</br>
+		Specialized: Data communication and Computer Network.</br>
+		- Programming ability on Javascript, PHP & MySQL, HTML & CSS, Python, C++, C#, framework Laravel.</br>
+		- Basic knowledge of linux operating system: Ubuntu, Ubuntu Server, CentOS, Kali.</br>
+		- Basic knowledge of Computer Network</br>
+		</td>
+	</tr>
+</table>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Work Experience***
+**Junior Web Developer**</br>
+**Techbase Vietnam Company Limited - January 18, 2020 – Present:**</br>
+- Working as a Junior Web Developer and participating in analysis, coding, testing, debugging new applications and website with the team.
+- Developing the UI layout, front-end and back-end programming for a web application that matched requirements.
+- Working in the agile/scrum development environment with frequently changing requirements and actively participating in scrum meetings and reviews.
+- Designing the front-end applications, user interactive (UI) web pages using web technologies like HTML, CSS, Javascript, Jquery, Ajax, VueJS, NuxtJS.
+- Designing the back-end applications using technologies like NodeJS, MySQL, Sequelize.
+- Designing the applications using technologies like SpringBoot, Thymeleaf, Javascript, Ajax, Jquery.
+- Designed a Restful API using technologies SpringBoot, MySQL, Hibernate.
+- Involved in using GIT, for project management and version management.
+
+**Intern Web Developer**</br>
+**Techbase Vietnam Company Limited - July 10, 2020 – September 10, 2020:**</br>
+- Worked as developer intern and participating in coding, testing, debugging new applications and website with the team.
+- Designing the front-end application, user interactive (UI) web page using web technologies like HTML, CSS, Javascript, Jquery, Ajax, Template Engine EJS, Bootstrap. Designing the back-end application using technologies like ExpressJS, MySQL, Sequelize.
+- Working in the agile/scrum development environment with frequently changing requirements and actively participating in scrum meetings and reviews.
+- Involved in using GIT, for project management and version management. 
 
 ## 🛠️ ***My Skills*** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -84,16 +124,6 @@ I am an undergraduate Data communication and Computer network student at Can Tho
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
   </a>  
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb">
-  </a> 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff">
-  </a> 
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a>
   <a href="#">
     <img alt="xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white">
   </a>
@@ -119,9 +149,7 @@ I am an undergraduate Data communication and Computer network student at Can Tho
 
 #### 👉 _Browsers:_
 <p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
@@ -130,10 +158,6 @@ I am an undergraduate Data communication and Computer network student at Can Tho
   <a href="https://github.com/dangthemen10" target="_blank">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"
-      alt="gitlab"/>
-  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"
       alt="Trello"/>
@@ -141,9 +165,6 @@ I am an undergraduate Data communication and Computer network student at Can Tho
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"
       alt="BitBucket"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img height="20px" src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
  </p>
 
