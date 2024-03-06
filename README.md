@@ -7,20 +7,8 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I'm a student majoring in Data Communication and Computer Networking at Can Tho University. C, C++, Java, Javascript, and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-- 👨‍ Junior Web Developer with around 1 plus years of experience in Web development.
-- 👨‍💻 Experience in developing web applications using HTML, CSS, JavaScript, VueJS, NuxtJS, Nodejs, MySQL, ORM Sequelize and Jest. In addition, have knowledge and experience in Core Java, Spring Boot, JUnit5.
-- 🌱 Experienced in working with Agile/Scrum and Waterfall models.
-- 🌱 Experience in OOPs concept and test strategies like mocking testing.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 🌱 I’m currently learning ReactJs, TypeScript, HTML5 and CSS3.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Chess♟, LOL and 🎵 listen to music.
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Career Goals***
-Applying the knowledge learned to become a professional programmer. I hope to work in a 
-professional programming environment, where I can develop professional skills, learn new programming knowledge to improve myself.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Career Objective***
+Apply the knowledge gained from my experience to become a professional web developer. I hope to work in a professional programming environment where I can develop professional skills and learn new programming skills to help me grow and develop my career path.
 
 ## <div align="right"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Education***</div>
 <table>
@@ -37,16 +25,32 @@ professional programming environment, where I can develop professional skills, l
 </table>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Work Experience***
-**Junior Web Developer**</br>
-**Techbase Vietnam Company Limited - January 18, 2020 – Present:**</br>
-- Working as a Junior Web Developer and participating in analysis, coding, testing, debugging new applications and website with the team.
-- Developing the UI layout, front-end and back-end programming for a web application that matched requirements.
-- Working in the agile/scrum development environment with frequently changing requirements and actively participating in scrum meetings and reviews.
-- Designing the front-end applications, user interactive (UI) web pages using web technologies like HTML, CSS, Javascript, Jquery, Ajax, VueJS, NuxtJS.
-- Designing the back-end applications using technologies like NodeJS, MySQL, Sequelize.
-- Designing the applications using technologies like SpringBoot, Thymeleaf, Javascript, Ajax, Jquery.
-- Designed a Restful API using technologies SpringBoot, MySQL, Hibernate.
-- Involved in using GIT, for project management and version management.
+**Front-End Developer**</br>
+**Techbase Vietnam Company Limited - June 20, 2023 – Present:**</br>
+Responsibilities:
+- Designing and developing a website to support social volunteer activities, aiding in relief efforts for natural disasters such as floods, earthquakes, and more. (https://donation.yahoo.co.jp).
+- Utilizing ReactJS/NextJs, Tanstack Query, and Recoil technologies.
+- Implementing Atomic design principles for component development and utilizing Storybook for design system management.
+- Implementing unit test code (component and BFF test).
+- Configuring continuous integration/continuous deployment (CI/CD) processes for application deployment.
+- Conducting training sessions for new team members.
+- Providing support and reviewing team output to ensure high-quality deliverables for customers.
+
+**Fullstack Web Developer**</br>
+**Techbase Vietnam Company Limited - January 18, 2020 – June 20, 2023:**</br>
+Build a web tool to collect data for advertising:
+- Utilizing VueJS, NuxtJS, and Vuetify to implement the UI/UX.
+- Implementing backend features using NodeJS (ExpressJS).
+- Handling Authentication/Authorization for the web tool and implementing CSRF security.
+- Building a feature that allows users to use SQL queries to collect data either manually or automatically on the S3 service.
+- Setting up a cron job to run automatically for data collection.
+- Implementing unit test code with the framework Jest.
+- Developing and creating dashboards for system monitoring.
+- Creating sequence diagrams (puml), Swagger.
+- Collaborated within an Agile Scrum team, demonstrating adaptability to changing requirements and driving continuous development.
+- Providing support and reviewing the output of team members to ensure quality for the customer.
+- Managing operational issues.
+- Utilizing technologies such as Spring Boot, Thymeleaf, Spring Data JPA, and Mapbox GL JS to develop a map tool and migrate a PHP web application to Java.
 
 **Intern Web Developer**</br>
 **Techbase Vietnam Company Limited - July 10, 2020 – September 10, 2020:**</br>
