@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/dangthemen10.svg?style=social&label=Followers)](https://github.com/dangthemen10?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=dangthemen10&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=20CC1B&size=20&lines=Hello,+My+full+name+is+Phan+Hai+Dang...;I+was+born+on+July+30+,+1997!;I'm+a+Web+Developer...;I+come+from+Kien+Giang+province)](https://git.io/typing-svg)
+<img align="right" width="300px" alt="image" src="https://github.com/user-attachments/assets/19c6d5d8-e41b-49a9-adba-1ecbb29771a7" />
 
-<img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=20CC1B&size=20&lines=Hello,+My+full+name+is+Phan+Hai+Dang...;I+was+born+on+July+30+,+1997!;I'm+a+Web+Developer...;I+come+from+Kien+Giang+province)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Career Objective***
 Apply the knowledge gained from my experience to become a professional web developer. I hope to work in a professional programming environment where I can develop professional skills and learn new programming skills to help me grow and develop my career path.
